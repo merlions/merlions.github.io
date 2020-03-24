@@ -11,7 +11,7 @@ ul#navlist li
 {
 float: left;
 height: 25px;
-background-color: #000f40;
+background-color: #0000cd;
 margin: 2px 2px 0 2px;
 border: 2px solid #000080;
 }
@@ -22,7 +22,7 @@ border-bottom: 1px solid #fff;
 background-color: #fff;
 }
 
-li#active a { color: #68228B; }
+li#active a { color: #000080; }
 
 #navlist a
 {
@@ -33,7 +33,7 @@ text-decoration: none;
 padding: 4px;
 }
 
-#navlist a:hover { background: #68228B; color:#fff; }
+#navlist a:hover { background: #000080; color:#ffd700; }
 
 /* horizontal lists */
 
