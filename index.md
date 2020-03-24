@@ -34,9 +34,9 @@
 		<div id="navcontainer">
 <ul id="navlist">
 <li id="active"><a href="index.html" id="current">Home</a></li>
-<li><a href="vegetarian/vegetarian.html">Vegetarian</a></li>
-<li><a href="withmeat/withmeat.html">With Meat</a></li>
-<li><a href="desserts/desserts.html">Desserts</a></li>
+<li><a href="vegetarian.html">Vegetarian</a></li>
+<li><a href="withmeat.html">With Meat</a></li>
+<li><a href="desserts.html">Desserts</a></li>
 </ul>
 </div>
           
