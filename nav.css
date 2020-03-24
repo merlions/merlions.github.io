@@ -41,7 +41,7 @@ padding: 4px;
 #navcontainer2
 {
 font-family: Verdana, Lucida, Geneva, Helvetica, Arial, sans-serif;
-color: #02f;
+color: #ffd700;
 }
 
 
@@ -63,7 +63,7 @@ margin: 0;
 #navcontainer2 li a
 {
 display: block;
-color: #7D26CD;
+color: #000080;
 text-decoration: none;
 }
 
@@ -71,8 +71,8 @@ html>body #navcontainer2 li a { width: auto; }
 
 #navcontainer2 li a:hover
 {
-border-left: 10px solid #1c64d1;
-border-right: 10px solid #5ba3e0;
-background-color: #2586d7;
+border-left: 10px solid #000080;
+border-right: 10px solid #4169E1;
+background-color: #0000cd;
 color: #fff;
 }
