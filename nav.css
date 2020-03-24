@@ -3,7 +3,7 @@ ul#navlist
 font: bold 15px verdana, arial, sans-serif;
 list-style-type: none;
 padding-bottom: 28px;
-border-bottom: 2px solid #68228B;
+border-bottom: 2px solid #000080;
 margin: 0;
 }
 
@@ -11,9 +11,9 @@ ul#navlist li
 {
 float: left;
 height: 25px;
-background-color: #9932CD;
+background-color: #000f40;
 margin: 2px 2px 0 2px;
-border: 2px solid #68228B;
+border: 2px solid #000080;
 }
 
 ul#navlist li#active
