@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <head>
    <link rel="stylesheet" type="text/css" href="index.css">
@@ -58,5 +58,3 @@
    
    
 </body>
-
-</html>
